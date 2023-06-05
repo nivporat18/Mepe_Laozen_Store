@@ -2,7 +2,7 @@ import React from 'react'
 import "./Case.css"
 function Case() {
   return (
-    <div>Case</div>
+    <h1>Case</h1>
   )
 }
 
