@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7bf9245.css",
+    "main.js": "/static/js/main.da829c9e.js",
+    "static/js/787.154360c7.chunk.js": "/static/js/787.154360c7.chunk.js",
+    "static/media/ipads.png": "/static/media/ipads.7e52b599361187419655.png",
+    "static/media/mepelaozen.png": "/static/media/mepelaozen.8a24f276acae29f1eaf9.png",
+    "static/media/iphones.png": "/static/media/iphones.f567bbd4a70c9a820d33.png",
+    "static/media/cases.png": "/static/media/cases.631c86f788132463b718.png",
+    "static/media/watchs.png": "/static/media/watchs.33874198f29727ce03d2.png",
+    "static/media/iphone12.jpeg": "/static/media/iphone12.bb53609d2458737894e9.jpeg",
+    "static/media/iphone11.jpeg": "/static/media/iphone11.2aff0a73c9c96a630521.jpeg",
+    "static/media/iphone14.jpeg": "/static/media/iphone14.774de54a7e798e6c5b47.jpeg",
+    "static/media/iphone13.png": "/static/media/iphone13.288a4a332ee57614e0f2.png",
+    "static/media/airpods.png": "/static/media/airpods.588a2b51376c82a9170e.png",
+    "static/media/maccomputer.png": "/static/media/maccomputer.9942859a661c71d9eb2f.png",
+    "index.html": "/index.html",
+    "main.e7bf9245.css.map": "/static/css/main.e7bf9245.css.map",
+    "main.da829c9e.js.map": "/static/js/main.da829c9e.js.map",
+    "787.154360c7.chunk.js.map": "/static/js/787.154360c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7bf9245.css",
+    "static/js/main.da829c9e.js"
+  ]
+}
