@@ -1,0 +1,15 @@
+
+.details{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.157);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.details > :link{
+}
+
+.details > :hover{
+    text-decoration: none;
+    color: black;
+}
+
