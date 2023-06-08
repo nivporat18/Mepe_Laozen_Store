@@ -16,7 +16,7 @@ function AppleWatchUltra() {
       };
   
     return (
-      <div className='iphone-container'>
+      <div className='iphone-container m-10'>
         
       {status === "success" ? (
       <>

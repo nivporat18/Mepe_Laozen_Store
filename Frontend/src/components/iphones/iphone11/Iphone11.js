@@ -21,7 +21,7 @@ const {items:data,status} = useSelector((state)=>state.products)
 
   return (
 
-    <div className='iphone-container'>
+    <div className='iphone-container m-10'>
       
     {status === "success" ? (
     <>

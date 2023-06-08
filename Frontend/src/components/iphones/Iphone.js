@@ -13,10 +13,10 @@ function Iphone() {
   return (
 
 
-	<div className="min-h-screen bg-gray-800 flex justify-center items-center py-20">
-	  <div className="md:px-4 md:grid md:grid-cols-2 lg:grid-cols-4 gap-6 space-y-4 md:space-y-0 ">
+	<div className="min-h-screen bg-gray-800 flex justify-center items-center py-28">
+	  <div className="md:px-20 md:grid md:grid-cols-2 lg:grid-cols-4 gap-10 space-y-4 md:space-y-0 ">
 		
-		<div className="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500  bg-gradient-to-r from-gray-900 to-yellow-00 ">
+		<div className="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500 ">
 		  <div className="relative ">
 			<img className="w-full rounded-xl" src={iphone11} alt="Iphone 11" />
 		  </div>
