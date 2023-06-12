@@ -17,7 +17,6 @@ router.post("/",async(req,res)=>{
            if(uploadRes){
             const product = new ProductModel({
                 name,
-                brand,
                 desc,
                 price,
                 image: uploadRes
